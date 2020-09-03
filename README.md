@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Afomin01/Afomin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with UE4 and InteliJ IDEA
 - 🌱 I’m currently learning Java, C++ and Blueprints
 
