@@ -4,12 +4,13 @@
 - 🔭 I’m currently working with UE4, Visual Studio and InteliJ IDEA
 - 🌱 I’m currently learning Java, C++ and UE4 Blueprints
 - ⚡ I worked and working with:
-    Java8 and JavaFX;
-    Spring and JavaEE;
-    Gradle or Maven;
-    Hibernate;
-    SQL;
-    C++, Blueprints and Unreal Engine 4 ❤️
+     Java8 and JavaFX;
+     Spring and JavaEE;
+     Gradle or Maven;
+     Hibernate;
+     SQL;
+     
+     C++, Blueprints and Unreal Engine 4 ❤️
     
 - 👨‍💻 I want to be Spring Java backend developer or an Unrial Engine game developer
 
