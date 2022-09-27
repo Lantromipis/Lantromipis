@@ -1,18 +1,17 @@
 ### Hi there 👋
 ### My name is Artem bakin
 
-- 🔭 I’m currently working with UE4, Visual Studio and InteliJ IDEA
-- 🌱 I’m currently learning Java, C++ and UE4 Blueprints
+- 🔭 I’m currently working with InteliJ IDEA
 - ⚡ I worked and working with:
-     Java8 and JavaFX;
-     Spring and JavaEE;
-     Gradle or Maven;
+     Java, JavaScript and Typescript;
+     Qurkus, Spring and a little bit of JavaEE;
+     Maven and Gradle;
      Hibernate;
      SQL;
-     
-     C++, Blueprints and Unreal Engine 4 ❤️
+     PostgreSQL;
+     React;
     
-- 👨‍💻 I want to be Spring Java backend developer or an Unrial Engine game developer
+- 👨‍💻 I working as Java backend developer (Qurkus, Kubernetes, etc.)
 
 - 👉 How to reach me: Telegram @lantromipis 
     
